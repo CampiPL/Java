@@ -1,0 +1,6 @@
+
+kwi 01, 2024 5:36:39 PM compliance.GUI <init>
+INFO: ***Program wystartowany***
+
+maj 06, 2024 2:31:03 PM compliance.GUI <init>
+INFO: ***Program wystartowany***
